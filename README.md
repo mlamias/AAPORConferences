@@ -1,16 +1,20 @@
 # AAPORConferences
+Title: "AAPOR Materials"
+Short Description:   Annual American Association for Public Opinion Reserach Conference Materials
+Author: "Mark L. Lamias"
+Date: "11/29/2019"
+
 ---
-title: "AAPOR Materials"
-author: "Mark L. Lamias"
-date: "11/29/2019"
-output: html_document
----
 
+This repo contains materials related to the Annual American Association for Public Opinion Research (AAPOR) Conferences.  These conferences have been held every year since 1946.  The conference numbers, the year the conference was held, and the location of the conference is provided in the table below.
 
-# AAPORConferences
- Annual American Association for Public Opinion Reserach Conference Materials
+There are 3 main categogires of materials in this repo.  They are:
 
-This repo contains materials related to the Annual American Association for Public Opinion Research (AAPOR) Conferences.  These conferences have been held every year since 1946.  The conference numbers, year the conference was held, and the location of the conference is provided in the table below.
+* AAPOR Program Books -- PDFs of the actual booklets conference participants received
+* AAPOR Program Proceedings from POQ
+  * Proceedings -- Public Opinion Quarterly articles that generally describe the overall proceedings of the conference 
+  * Program --  -- Public Opinion Quarterly articles that provide breif listings and descriptions of the short coures, papers, posters, etc. that are presented at each year's conference.
+* MAPOR Program Books -- PDFs of the actual booklets Midwest Association for Public Opinion Research participants received.
 
 | Conference #  | Year          | Location      |
 | ------------- | ------------- | ------------- |
@@ -83,16 +87,8 @@ This repo contains materials related to the Annual American Association for Publ
 | 69 | 2014 | Anaheim, California Anaheim Marriott Hotel | 
 | 70 | 2015 | Hollywood, Florida The Diplomat | 
 | 71 | 2016 | Austin, Texas Hilton Austin | 
+| 72 | 2017 | Sheraton New Orleans, New Orleans, Louisiana | 
+| 73 | 2018 | Sheraton Denver Downtown Hotel, Denver, Colorado | 
 
 
 
-
-
-
-There are 3 main categogires of materials in this repo.  They are:
-
-* AAPOR Program Books -- PDFs of the actual booklets conference participants received
-* AAPOR Program Proceedings from POQ
-  * Proceedings -- Public Opinion Quarterly articles that generally describe the overall proceedings of the conference 
-  * Program --  -- Public Opinion Quarterly articles that provide breif listings and descriptions of the short coures, papers, posters, etc. that are presented at each year's conference.
-* MAPOR Program Books -- PDFs of the actual booklets Midwest Association for Public Opinion Research participants received.
