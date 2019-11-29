@@ -1,7 +1,10 @@
 # AAPORConferences
 Title: "AAPOR Materials"
+
 Short Description:   Annual American Association for Public Opinion Reserach Conference Materials
+
 Author: "Mark L. Lamias"
+
 Date: "11/29/2019"
 
 ---
